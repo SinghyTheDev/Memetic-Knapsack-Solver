@@ -1,7 +1,7 @@
 # Memetic Knapsack Solver
 
 ## Problem Description
-The Knapsack Problem is a combinatorial optimization problem in which you need to select a combination of items from a given list, each with a weight and profit, to maximize the total profit whilst staying within the weight limit.
+The Knapsack Problem is a combinatorial optimization problem in which you need to select a combination of items from a given list, each with a weight and profit, which maximize the total profit whilst staying within the weight limit.
 
 The Memetic Algorithm is a population-based optimization AI algorithm which combines principles of genetic algorithms (GAs) with local search techniques to solve optimization problems.
 
