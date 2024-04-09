@@ -21,4 +21,4 @@ The Memetic Algorithm implemented in this code involves the following:
 3. **Output:** At the end of each trial the algorithm stores the results in a text file, including the best solutions bit representations, profits, and best and worst values at each generation.
 
 ## How to Run
-To run the program, run main function in Main. Hyperparamaters are in Configurations class. Test instances are in the /testInstances folder. Trial output files are in the /trialOutputs folder.
+To run the program, run main function in Main. Hyperparamaters are in Configurations class. Test instances are in /testInstances folder. Trial output files are in /trialOutputs folder.
