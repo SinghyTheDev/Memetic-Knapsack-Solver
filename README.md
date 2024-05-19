@@ -1,7 +1,7 @@
 # Memetic Knapsack Solver
 
 ## Problem Description
-The Knapsack Problem is a combinatorial optimization problem in which you select a combination of items from a list of items, each with a profit and weight attached, and try to maximize the total profit acheivable whilst staying under the weight limit of your backpack.
+The Knapsack Problem is a combinatorial optimization problem in which you select a combination of items from a list of items, each with a profit and weight attached, and try to maximize the total profit possible whilst staying under the weight limit of your backpack.
 
 Evolutionary algorithms is a field of AI which is inspired by the evolutionary process of life. Genetic algorithms are a branch of evolutionary algorithms which mimic the genetic principle if survival of the fittest.
 
